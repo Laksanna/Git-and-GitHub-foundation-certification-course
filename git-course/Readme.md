@@ -7,3 +7,5 @@
 ##Branches
 
 ##Remotes
+
+##Stashing
